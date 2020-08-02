@@ -25,3 +25,4 @@
       ·投影模块：分别对数据进行水平和垂直投影，从而实现对图像的分割，再通过对行和列的像素累加值的判断，可以确定数字的位置
       ·数字识别模块：通过对数字特征的判断，实现数字识别，并将结果显示到LCD屏幕上
 ## 项目框图
+      ![Image text](https://github.com/qishiyemeishashi/digital_recognition/blob/master/Project_block_diagram.png)
