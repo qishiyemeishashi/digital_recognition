@@ -26,5 +26,10 @@
       ·数字识别模块：通过对数字特征的判断，实现数字识别，并将结果显示到LCD屏幕上
 ## 项目框图
       ![Image text](https://github.com/qishiyemeishashi/digital_recognition/blob/master/Project_block_diagram.png)
+      或者在文件Project_block_diagram.png
 ## 完成功能展示
-      
+      ![Image text](https://github.com/qishiyemeishashi/digital_recognition/blob/master/images/1.jpg)
+      ![Image text](https://github.com/qishiyemeishashi/digital_recognition/blob/master/images/2.jpg)
+      ![Image text](https://github.com/qishiyemeishashi/digital_recognition/blob/master/images/3.jpg)
+      视频：https://github.com/qishiyemeishashi/digital_recognition/blob/master/images/video.mp4
+      或者在文件images里可找到
